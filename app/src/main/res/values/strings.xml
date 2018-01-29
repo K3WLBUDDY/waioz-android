@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Waioz</string>
+
+    <string name="typeface_light">fonts/Affogato-Light.otf</string>
+    <string name="typeface_regular">fonts/Affogato-Regular.otf</string>
+    <string name="typeface_medium">fonts/Affogato-Medium.otf</string>
+    <string name="typeface_bold">fonts/Affogato-Bold.otf</string>
+    <string name="typeface_black">fonts/Affogato-Black.otf</string>
+</resources>

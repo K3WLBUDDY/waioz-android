@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme" />
+
+    <style name="Theme.BaseAppTheme" parent="@style/Theme.Design.Light.NoActionBar">
+
+    </style>
+
+    <style name="Theme.AppTheme" parent="@style/Theme.BaseAppTheme">
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/cerulean_40</item>
+
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+</resources>
